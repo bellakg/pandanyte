@@ -1,0 +1,14 @@
+body{
+  background-color: #265464;
+}
+h1{
+  font-weight: 500;
+  color: #fff;
+  padding: 5vh;
+  font-size: 4rem;
+}
+p{
+color: #fd1;
+  padding: 5vh;
+  font-size: 2rem;
+}
